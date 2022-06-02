@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{16096622-4549-4507-B3CE-31A4822D0DAA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CardDeck.nUnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardDeck.UnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="HIC_Tech/CardDeck.cs" Line="37" Column="1" />
+      <File FileName="HIC_Tech/Card.cs" Line="1" Column="1" />
+      <File FileName="HIC_Tech/CardGame.cs" Line="1" Column="12" />
+      <File FileName="CardDeck.UnitTests/UnitTest1.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardGame" expanded="True">
+            <Node name="CardDeck.UnitTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="CardGame" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CardGame" expanded="True">
+            <Node name="CardDeck.UnitTests" expanded="True">
+              <Node name="CardDeck.UnitTests" expanded="True">
+                <Node name="CardDeckTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CardGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

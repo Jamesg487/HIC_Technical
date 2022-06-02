@@ -1,0 +1,15 @@
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/CardGame
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/CardGame.deps.json
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/CardGame.runtimeconfig.json
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/CardGame.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/CardGame.pdb
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.csproj.AssemblyReference.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.AssemblyInfoInputs.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.AssemblyInfo.cs
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.csproj.CoreCompileInputs.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/refint/CardGame.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.pdb
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/CardGame.genruntimeconfig.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/ref/CardGame.dll

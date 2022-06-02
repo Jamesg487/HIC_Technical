@@ -1,0 +1,15 @@
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/HIC_Tech
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/HIC_Tech.deps.json
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/HIC_Tech.runtimeconfig.json
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/HIC_Tech.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/bin/Debug/net6.0/HIC_Tech.pdb
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.csproj.AssemblyReference.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.AssemblyInfoInputs.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.AssemblyInfo.cs
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.csproj.CoreCompileInputs.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/refint/HIC_Tech.dll
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.pdb
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/HIC_Tech.genruntimeconfig.cache
+/Users/jamesgreen/Projects/HIC_Tech/HIC_Tech/obj/Debug/net6.0/ref/HIC_Tech.dll

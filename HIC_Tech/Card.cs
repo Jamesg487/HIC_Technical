@@ -23,11 +23,6 @@ namespace HIC_Tech
             get { return suit; }
             set { suit = value; }
         }
-
-        public override string ToString()
-        {
-            return $"{faceValue} {suit}";
-        }
     }
 }
 

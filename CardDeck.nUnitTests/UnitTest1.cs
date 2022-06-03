@@ -17,7 +17,7 @@ public class CardDeckTests
     {
         deck1.Shuffle();
 
-        Assert.That(deck2.Deck[0].ToString(), Is.Not.EqualTo(deck1.Deck[0].ToString()));
+        Assert.That($"{deck2.Deck[0].FaceValue} {deck2.Deck[0].Suit}", Is.Not.EqualTo($"{deck1.Deck[0].FaceValue} {deck1.Deck[0].Suit}"));
     }
 
     [Test]
@@ -26,12 +26,12 @@ public class CardDeckTests
         deck1.Shuffle();
         deck1.Sort();
 
-        Assert.That(deck2.Deck[0].ToString(), Is.EqualTo(deck1.Deck[0].ToString()));
+        Assert.That($"{deck2.Deck[0].FaceValue} {deck2.Deck[0].Suit}", Is.EqualTo($"{deck1.Deck[0].FaceValue} {deck1.Deck[0].Suit}"));
     }
 
     [Test]
     public void CanDealTopCard()
     {
-        Assert.That(deck1.DealTopCard().ToString(), Is.EqualTo(deck1.Deck[0].ToString()));
+        Assert.That($"{deck1.DealTopCard().FaceValue} {deck1.DealTopCard().Suit}", Is.EqualTo($"{deck1.Deck[0].FaceValue} {deck1.Deck[0].Suit}"));
     }
 }

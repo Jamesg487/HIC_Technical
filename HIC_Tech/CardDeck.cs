@@ -7,7 +7,7 @@ namespace HIC_Tech
 		private readonly int deckSize = 52;
 		private readonly string[] suits = { "Diamonds", "Clubs", "Hearts", "Spades" };
 		private readonly string[] faceValues = { "A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2" };
-		private Random randomNum = new();
+		private Random randomNum;
 		private int dealCount = -1;
 
 		public CardDeck()
@@ -19,6 +19,7 @@ namespace HIC_Tech
 				int suitIndex = i / 13;
 				deck[i] = new Card(faceValues[faceIndex], suits[suitIndex]);
 			}
+			randomNum = new Random();
 		}
 
 		public Card[] Deck
